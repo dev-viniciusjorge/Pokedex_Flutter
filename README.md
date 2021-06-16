@@ -1,16 +1,19 @@
-# pokedex
+# Pokedex
 
-A new Flutter project.
+Projeto de uma pokedex em flutter para a aula de Desenvolvimento Mobile.
 
-## Getting Started
+## Aluno 
 
-This project is a starting point for a Flutter application.
+- Vinicius Jorge de Oliveira
 
-A few resources to get you started if this is your first Flutter project:
+### Desafios
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+[x] Modificar o PokeCard para receber um gradiente de cor, de acordo com os tipos do Pokemon;
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[x] Trocar a fonte do título da Pokédex para fonte Pokemon;
+
+[] Escolher uma nova informação da PokeAPI e trazer para interface gráfica;
+
+[] Criar uma barra de busca de pokemon na HomePage;
+
+[] Converter o código para null safety;
